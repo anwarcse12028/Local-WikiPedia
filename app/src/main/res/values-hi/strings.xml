@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्थानीय विकिपीडिया </string>
+    <string name="action_settings">सेटिंग्स </string>
+    <string name="local">hi</string>
+    <string name="about_me"> मेरे बारे में </string>
+    <string name="dev_name">इस एप्लिकेशन मो अनवर हुसैन वदूद द्वारा बनाया गया है</string>
+</resources>

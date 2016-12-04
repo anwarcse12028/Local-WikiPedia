@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+ويكيبيديا المحلية
+    </string>
+    <string name="action_settings">
+        إعدادات
+    </string>
+    <string name="local">ar</string>
+    <string name="about_me">  عني  </string>
+    <string name="dev_name">
+        تم بناء هذا التطبيق من قبل مو أنور حسين عبد الودود
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lokale Wikipedia</string>
+    <string name="action_settings">instellingen</string>
+    <string name="local">de</string>
+    <string name="about_me">
+Over mij </string>
+    <string name="dev_name">Deze app is gebouwd door md. Anwar Hussen Wadud</string>
+</resources>

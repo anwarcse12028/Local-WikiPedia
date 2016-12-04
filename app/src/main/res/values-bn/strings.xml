@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">স্থানীয় উইকিপিডিয়া</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="local">bn</string>
+    <string name="about_me">আমার সম্পর্কে </string>
+    <string name="dev_name"> এই অ্যাপ্লিকেশনটি মো আনোয়ার হোসেন ওয়াদুদ কর্তৃক নির্মিত হয় </string>
+</resources>

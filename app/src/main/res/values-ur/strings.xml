@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مقامی ویکیپیڈیا</string>
+    <string name="action_settings">ترتیبات</string>
+    <string name="local">ur</string>
+    <string name="about_me">
+میرے بارے میں
+    </string>
+    <string name="dev_name">اس ایپ کو مو انور حسین ودود کی طرف سے بنایا گیا ہے</string>
+</resources>

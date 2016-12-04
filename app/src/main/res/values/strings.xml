@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Local Wikipedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="local">en</string>
+    <string name="about_me"> About me </string>
+    <string name="dev_name">This app is  developed by Md. Anwar Hussen Wadud</string>
+</resources>
